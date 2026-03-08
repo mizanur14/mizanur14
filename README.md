@@ -2,7 +2,7 @@
 
 🎓 Computer Science & Engineering Student at Bangladesh University of Professionals  
 📍 Bangladesh  
-💡 Interested in Artificial Intelligence, Machine Learning, Data Science, Cybersecurity, and Embedded Systems
+💡 Interested in Artificial Intelligence, Machine Learning, Data Science and Embedded Systems
 
 I am a passionate CSE student who enjoys understanding how **intelligent systems, secure networks, and data-driven technologies** work. I like exploring complex technical topics, building projects, and continuously improving my skills in modern computing technologies.
 
@@ -13,7 +13,6 @@ I am a passionate CSE student who enjoys understanding how **intelligent systems
 - 🎓 Undergraduate student in **Computer Science & Engineering**
 - 🤖 Currently learning **Artificial Intelligence and Machine Learning**
 - 📊 Exploring **Data Science and data-driven decision systems**
-- 🔐 Interested in **Cybersecurity and Network Security**
 - 🔧 Working with **Arduino and IoT-based systems**
 - 📚 Focused on developing strong **fundamental computer science knowledge**
 
@@ -24,7 +23,6 @@ I am a passionate CSE student who enjoys understanding how **intelligent systems
 - Machine Learning Fundamentals  
 - Artificial Intelligence Concepts  
 - Data Structures & Algorithms  
-- Computer Networks & Security  
 - Embedded Systems and IoT Development  
 
 ---
@@ -35,6 +33,7 @@ I am a passionate CSE student who enjoys understanding how **intelligent systems
 - Python  
 - C  
 - C++
+- Java
 
 ### Data & AI Tools
 - NumPy  
@@ -59,9 +58,7 @@ I am a passionate CSE student who enjoys understanding how **intelligent systems
 
 - Artificial Intelligence  
 - Machine Learning  
-- Data Science  
-- Cybersecurity  
-- Computer Networks  
+- Data Science   
 - Embedded Systems  
 - Technical Research
 
@@ -70,7 +67,6 @@ I am a passionate CSE student who enjoys understanding how **intelligent systems
 ## 🎯 Long-Term Goals
 
 - Become highly skilled in **AI, Machine Learning, and Data Science**
-- Build expertise in **Cybersecurity**
 - Publish **research papers in reputable journals**
 - Contribute to **open-source projects**
 - Develop impactful **AI and security solutions**
