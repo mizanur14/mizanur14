@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Mizanur Rahman
+# Hey there 👋 I'm Md Mizanur Rahman Tazim
 
 🎓 Computer Science & Engineering Student at Bangladesh University of Professionals  
 📍 Bangladesh  
