@@ -4,7 +4,7 @@
 📍 Bangladesh  
 💡 Interested in Artificial Intelligence, Machine Learning, Data Science and Embedded Systems
 
-I am a passionate CSE student who enjoys understanding how **intelligent systems, secure networks, and data-driven technologies** work. I like exploring complex technical topics, building projects, and continuously improving my skills in modern computing technologies.
+I am a passionate CSE student who enjoys understanding how **intelligent systems and data-driven technologies** work. I like exploring complex technical topics, building projects, and continuously improving my skills in modern computing technologies.
 
 ---
 
