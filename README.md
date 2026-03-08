@@ -1,113 +1,87 @@
-👋 Hi, I'm Md Mizanur Rahman Tazim
+# Hi there 👋 I'm Mizanur Rahman
 
-🎓 Computer Science & Engineering Student
-📍 Bangladesh
-💡 Passionate about Artificial Intelligence, Machine Learning, Data Science, Cybersecurity, and Embedded Systems
+🎓 Computer Science & Engineering Student at Bangladesh University of Professionals  
+📍 Bangladesh  
+💡 Interested in Artificial Intelligence, Machine Learning, Data Science, Cybersecurity, and Embedded Systems
 
-I am a CSE student who enjoys learning how intelligent systems, secure networks, and data-driven technologies shape the future. I constantly explore new technologies, build projects, and study advanced concepts to become an expert in AI, ML, Data Science, and Cybersecurity.
+I am a passionate CSE student who enjoys understanding how **intelligent systems, secure networks, and data-driven technologies** work. I like exploring complex technical topics, building projects, and continuously improving my skills in modern computing technologies.
 
-🚀 About Me
+---
 
-🎓 Studying Computer Science & Engineering at Bangladesh University of Professionals
+## 🚀 About Me
 
-🤖 Learning Artificial Intelligence & Machine Learning
+- 🎓 Undergraduate student in **Computer Science & Engineering**
+- 🤖 Currently learning **Artificial Intelligence and Machine Learning**
+- 📊 Exploring **Data Science and data-driven decision systems**
+- 🔐 Interested in **Cybersecurity and Network Security**
+- 🔧 Working with **Arduino and IoT-based systems**
+- 📚 Focused on developing strong **fundamental computer science knowledge**
 
-📊 Interested in Data Science and data-driven systems
+---
 
-🔐 Exploring Cybersecurity and Network Security
+## 🧠 Current Learning Focus
 
-🔧 Working with Arduino, IoT sensors, and embedded systems
+- Machine Learning Fundamentals  
+- Artificial Intelligence Concepts  
+- Data Structures & Algorithms  
+- Computer Networks & Security  
+- Embedded Systems and IoT Development  
 
-📚 Passionate about deep technical learning and research
+---
 
-🧠 Current Learning Focus
+## 🛠️ Technologies & Tools
 
-Machine Learning Fundamentals
+### Programming Languages
+- Python  
+- C  
+- C++
 
-Artificial Intelligence Concepts
+### Data & AI Tools
+- NumPy  
+- Pandas  
+- Scikit-learn  
+- Jupyter Notebook  
 
-Data Structures & Algorithms
+### Embedded Systems
+- Arduino  
+- ESP8266  
+- Sensor Integration
 
-Cybersecurity Fundamentals
+### Development Tools
+- Git  
+- GitHub  
+- Linux  
+- VS Code
 
-Networking Protocols
+---
 
-Embedded Systems & Sensor Integration
+## 📚 Areas of Interest
 
-🛠️ Technologies & Tools
-Programming
+- Artificial Intelligence  
+- Machine Learning  
+- Data Science  
+- Cybersecurity  
+- Computer Networks  
+- Embedded Systems  
+- Technical Research
 
-Python
+---
 
-C
+## 🎯 Long-Term Goals
 
-C++
+- Become highly skilled in **AI, Machine Learning, and Data Science**
+- Build expertise in **Cybersecurity**
+- Publish **research papers in reputable journals**
+- Contribute to **open-source projects**
+- Develop impactful **AI and security solutions**
 
-AI / Data Science
+---
 
-NumPy
+## 📫 Connect With Me
 
-Pandas
+- GitHub: https://github.com/mizanur14 
+- LinkedIn: https://www.linkedin.com/in/mrtazim4411/
 
-Scikit-learn
+---
 
-Jupyter Notebook
-
-Hardware / Embedded
-
-Arduino
-
-ESP8266
-
-Sensors (PIR, Current Sensors, etc.)
-
-Tools
-
-Git
-
-GitHub
-
-Linux
-
-VS Code
-
-📂 Areas of Interest
-
-Artificial Intelligence
-
-Machine Learning
-
-Data Science
-
-Cybersecurity
-
-Computer Networks
-
-Embedded Systems
-
-Research & Publications
-
-📈 Goals
-
-My long-term goals are:
-
-Become an expert in AI, Machine Learning, and Data Science
-
-Develop strong expertise in Cybersecurity
-
-Publish research papers in reputed journals
-
-Contribute to open-source projects
-
-Build impactful AI and security solutions
-
-🌐 Connect With Me
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: (Add your LinkedIn here)
-
-📊 GitHub Stats
-Learning. Building. Improving. Every single day.
-
-⭐ Always curious about how technology works and how it can make the world better.
+⭐ *Always learning. Always building.*
