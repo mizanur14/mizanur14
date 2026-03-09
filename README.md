@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Md+Mizanur+Rahman+Tazim;Major+in+Computer+Science;Data+Science+%7C+Artificial+Intelligence+%7C+Machine+Learning;Always+Learning+New+Technologies" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Md+Mizanur+Rahman+Tazim;Major+in+Computer+Science;Data+Science+%7C+AI+%7C+Machine+Learning;Always+Learning+New+Technologies" />
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
