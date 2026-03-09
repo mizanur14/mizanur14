@@ -9,7 +9,7 @@
 # 👨‍💻 About Me
 
 🎓 Computer Science & Engineering Student
-💡 Interested in **Artificial Intelligence, Machine Learning, Data Science, and Cybersecurity**
+💡 Interested in **Artificial Intelligence, Machine Learning, and Data Science**
 🔬 Passionate about understanding **how intelligent systems and secure networks work**
 ⚡ I enjoy learning complex technologies and building technical projects
 
@@ -20,7 +20,6 @@
 * 🤖 Artificial Intelligence
 * 🧠 Machine Learning
 * 📊 Data Science
-* 🔐 Cybersecurity
 * 🌐 Computer Networks
 * 🔧 Embedded Systems & IoT
 
@@ -39,6 +38,8 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ### Embedded Systems
 
@@ -52,21 +53,17 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
-
-# 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-# 📈 Most Used Languages
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=mizanur14&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+## 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizanur14&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 # 🔥 GitHub Streak
