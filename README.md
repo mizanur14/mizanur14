@@ -9,8 +9,8 @@
 # 👨‍💻 About Me
 
 🎓 Computer Science & Engineering Student
-💡 Interested in **Artificial Intelligence, Machine Learning, and Data Science**
-🔬 Passionate about understanding **how intelligent systems and secure networks work**
+💡 Proficient in **Artificial Intelligence, Machine Learning, and Data Science**
+🔬 Keen about understanding **how intelligent systems and secure networks work**
 ⚡ I enjoy learning complex technologies and building technical projects
 
 ---
