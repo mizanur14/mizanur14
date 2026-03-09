@@ -1,14 +1,9 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Md+Mizanur+Rahman+Tazim;Computer+Science+Major;Data+Science+%7C+Artificial+Intelligence+%7C+Machine+Learning;Always+Learning+New+Technologies" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Mizanur+Rahman;Computer+Science+Student;AI+%7C+Machine+Learning+%7C+Cybersecurity;Always+Learning+New+Technologies" />
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="center">
-I'm Md Mizanur Rahman Tazim <br>
-Computer Science Major <br>
-Data Science | AI | Machine Learning
-</h3>
 ---
 
 # 👨‍💻 About Me
@@ -38,7 +33,7 @@ Data Science | AI | Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ### Data Science & AI
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
@@ -85,7 +80,6 @@ Data Science | AI | Machine Learning
 # 🎯 Goals
 
 * Become an expert in **Artificial Intelligence and Machine Learning**
-* Develop strong expertise in **Cybersecurity**
 * Contribute to **open-source projects**
 * Publish **technical research**
 * Build impactful **AI-based solutions**
@@ -94,8 +88,8 @@ Data Science | AI | Machine Learning
 
 # 🌐 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: Add your LinkedIn here
+* GitHub: https://github.com/mizanur14
+* LinkedIn: https://www.linkedin.com/in/mrtazim4411/
 
 ---
 
