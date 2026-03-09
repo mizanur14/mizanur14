@@ -79,27 +79,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linuxmint/linuxmint-original.svg" width="50" height="50"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mizanur14&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-## 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizanur14&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
 # 🎯 Goals
 
 * Become an expert in **Artificial Intelligence and Machine Learning**
