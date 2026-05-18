@@ -98,6 +98,16 @@
 
 ---
 
+# 🌟 Favorite Quote
+
+<p align="center">
+<i>
+"No matter how ridiculous the odds may seem, within us resides the power to overcome these challenges and achieve something beautiful. That one day, we'll look back at where we started and be amazed by how far we've come.”- Technoblade
+</i>
+</p>
+
+---
+
 # 🌐 Connect With Me
 
 - GitHub: https://github.com/mizanur14  
@@ -105,4 +115,6 @@
 
 ---
 
-⭐ *Always learning. Always building. Always improving.*
+<p align="center">
+⭐ <i>Always learning. Always building. Always improving.</i>
+</p>
