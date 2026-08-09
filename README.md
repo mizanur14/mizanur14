@@ -19,8 +19,7 @@
 
 - 🤖 Artificial Intelligence  
 - 🧠 Machine Learning  
-- 📊 Data Science  
-- 🌐 Computer Networks  
+- 📊 Data Science   
 - 🔧 Embedded Systems & IoT  
 
 ---
