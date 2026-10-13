@@ -55,7 +55,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" style="margin:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" style="margin:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" style="margin:10px;"/>
-<img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/YOLOv8-Icon.svg" width="50" style="margin:10px;" alt="YOLO"/>
+<img src="https://img.shields.io/badge/YOLO-Ultralytics-0052FF?style=for-the-badge&logo=yolo&logoColor=white" height="40" style="margin:10px;" alt="YOLO"/>
 </p>
 
 ---
