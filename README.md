@@ -9,9 +9,9 @@
 # 👨‍💻 About Me
 
 🎓 Computer Science & Engineering Student  
-💡 Proficient in **Artificial Intelligence, Machine Learning, Data Science and Computer Vision**  
-🔬 Keen about understanding **how intelligent systems and secure networks work**  
-⚡ I enjoy learning complex technologies and building technical projects  
+💡 Proficient in **Artificial Intelligence, Machine Learning, Data Science, and Computer Vision**  
+🔬 Keen about understanding **how intelligent visual systems and secure networks work**  
+⚡ I enjoy learning complex technologies and building end-to-end intelligent vision & AI projects  
 
 ---
 
@@ -20,7 +20,7 @@
 - 🤖 Artificial Intelligence  
 - 🧠 Machine Learning  
 - 📊 Data Science   
-- 📹 Computer Vision
+- 👁️ Computer Vision & Real-time Object Detection
 
 ---
 
@@ -44,6 +44,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" style="margin:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" style="margin:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" style="margin:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" style="margin:10px;" alt="OpenCV"/>
 </p>
 
 ---
@@ -54,6 +55,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" style="margin:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" style="margin:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" style="margin:10px;"/>
+<img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/YOLOv8-Icon.svg" width="50" style="margin:10px;" alt="YOLO"/>
 </p>
 
 ---
@@ -90,10 +92,10 @@
 
 # 🎯 Goals
 
-- Become an expert in **Artificial Intelligence and Machine Learning**  
-- Contribute to **open-source projects**  
+- Become an expert in **Artificial Intelligence, Machine Learning, and Computer Vision**  
+- Contribute to **open-source AI and vision projects**  
 - Publish **technical research**  
-- Build impactful **AI-based solutions**  
+- Build impactful **AI & Computer Vision-based solutions**  
 
 ---
 
