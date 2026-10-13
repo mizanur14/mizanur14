@@ -20,7 +20,7 @@
 - 🤖 Artificial Intelligence  
 - 🧠 Machine Learning  
 - 📊 Data Science   
-- 🔧 Embedded Systems & IoT  
+- 📹 Computer Vision
 
 ---
 
