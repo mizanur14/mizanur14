@@ -55,9 +55,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" style="margin:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" style="margin:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" style="margin:10px;"/>
-<img src="https://cdn.simpleicons.org/yolo/00FFFF" width="50" style="margin:10px;" alt="YOLO"/>
-<img src="https://svgl.app/library/huggingface.svg" width="50" style="margin:10px;" alt="Hugging Face"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="50" style="margin:10px;" alt="SciPy"/>
+<img src="https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" height="35" style="margin:10px;" alt="YOLO"/>
+<img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="35" style="margin:10px;" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" height="35" style="margin:10px;" alt="SciPy"/>
 </p>
 
 ---
@@ -95,4 +95,30 @@
 
 # 🎯 Goals
 
-- Become an expert in **Artificial Intelligence,
+- Become an expert in **Artificial Intelligence, Machine Learning, and Computer Vision**  
+- Contribute to **open-source AI and vision projects**  
+- Publish **technical research**  
+- Build impactful **AI & Computer Vision-based solutions**  
+
+---
+
+# 🌟 Favorite Quote
+
+<p align="center">
+<i>
+"No matter how ridiculous the odds may seem, within us resides the power to overcome these challenges and achieve something beautiful. That one day, we'll look back at where we started and be amazed by how far we've come.”- Technoblade
+</i>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+- GitHub: https://github.com/mizanur14  
+- LinkedIn: https://www.linkedin.com/in/mrtazim4411/  
+
+---
+
+<p align="center">
+⭐ <i>Always learning. Always building. Always improving.</i>
+</p>
