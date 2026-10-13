@@ -43,19 +43,21 @@
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" style="margin:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" style="margin:10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" style="margin:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" style="margin:10px;" alt="OpenCV"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" style="margin:10px;"/>
 </p>
 
 ---
 
-## 📚 Libraries
+## 📚 Libraries & Models
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" style="margin:10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" style="margin:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" style="margin:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" style="margin:10px;"/>
-<img src="https://img.shields.io/badge/YOLO-Ultralytics-0052FF?style=for-the-badge&logo=yolo&logoColor=white" height="40" style="margin:10px;" alt="YOLO"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" style="margin:10px;"/>
+<img src="https://cdn.simpleicons.org/yolo/00FFFF" width="50" style="margin:10px;" alt="YOLO"/>
+<img src="https://svgl.app/library/huggingface.svg" width="50" style="margin:10px;" alt="Hugging Face"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="50" style="margin:10px;" alt="SciPy"/>
 </p>
 
 ---
@@ -63,6 +65,7 @@
 ## 🗄️ Databases
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" style="margin:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" style="margin:10px;" alt="PostgreSQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50" style="margin:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" style="margin:10px;"/>
 </p>
@@ -92,30 +95,4 @@
 
 # 🎯 Goals
 
-- Become an expert in **Artificial Intelligence, Machine Learning, and Computer Vision**  
-- Contribute to **open-source AI and vision projects**  
-- Publish **technical research**  
-- Build impactful **AI & Computer Vision-based solutions**  
-
----
-
-# 🌟 Favorite Quote
-
-<p align="center">
-<i>
-"No matter how ridiculous the odds may seem, within us resides the power to overcome these challenges and achieve something beautiful. That one day, we'll look back at where we started and be amazed by how far we've come.”- Technoblade
-</i>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-- GitHub: https://github.com/mizanur14  
-- LinkedIn: https://www.linkedin.com/in/mrtazim4411/  
-
----
-
-<p align="center">
-⭐ <i>Always learning. Always building. Always improving.</i>
-</p>
+- Become an expert in **Artificial Intelligence,
