@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=860&lines=Hello+there!;This+is+Md+Mizanur+Rahman+Tazim;Major+in+Computer+Science;AI+%7C+ML+%7C+DS+%7C+CV;Always+keen+in+learning+and+exploring+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=820&lines=Hello+there!;This+is+Md+Mizanur+Rahman+Tazim;Major+in+Computer+Science+and+Engineering;Specializing+in+AI+%7C+ML+%7C+DS+%7C+CV;Always+keen+in+learning+and+exploring+technologies" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mizanur14&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mizanur14&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
