@@ -9,7 +9,7 @@
 # 👨‍💻 About Me
 
 🎓 Computer Science & Engineering Student  
-💡 Proficient in **Artificial Intelligence, Machine Learning, and Data Science**  
+💡 Proficient in **Artificial Intelligence, Machine Learning, Data Science and Computer Vision**  
 🔬 Keen about understanding **how intelligent systems and secure networks work**  
 ⚡ I enjoy learning complex technologies and building technical projects  
 
