@@ -10,7 +10,7 @@
 
 # 👨‍💻 About Me
 
-🎓 Computer Science & Engineering Student  
+💻 Associate Data Scientist
 💡 Proficient in **Artificial Intelligence, Machine Learning, Data Science, and Computer Vision**  
 🔬 Keen about understanding **how intelligent visual systems and secure networks work**  
 ⚡ I enjoy learning complex technologies and building end-to-end intelligent vision & AI projects  
