@@ -118,6 +118,7 @@
 
 - GitHub: https://github.com/mizanur14  
 - LinkedIn: https://www.linkedin.com/in/mrtazim4411/  
+- Gmail: mizanur190380@gmail.com
 
 ---
 
